@@ -1,5 +1,5 @@
 <details>
-<summary> # 1.ReActor Node for ComfyUI </summary>
+<summary> # 1. ReActor Node for ComfyUI </summary>
                                                               **Reactor results with ComfyUI**: 
 
 ![reactor](https://github.com/user-attachments/assets/97d97e3c-99be-4349-9999-29bce3236323)
