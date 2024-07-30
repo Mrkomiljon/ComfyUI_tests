@@ -1,6 +1,13 @@
-# 1. ReActor Node for ComfyUI
-### Reactor results with ComfyUI
+<details>
+<summary> # 1.ReActor Node for ComfyUI </summary>
+                                                              **Reactor results with ComfyUI**: 
+
+![reactor](https://github.com/user-attachments/assets/97d97e3c-99be-4349-9999-29bce3236323)
+
+ </details>
+ 
 ## Installation
+
 <details>
 	<summary>Standalone (Portable) <a href="https://github.com/comfyanonymous/ComfyUI">ComfyUI</a> for Windows</summary>
 
