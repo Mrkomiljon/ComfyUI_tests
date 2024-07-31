@@ -5,8 +5,14 @@
 ![reactor](https://github.com/user-attachments/assets/97d97e3c-99be-4349-9999-29bce3236323)
 
  </details>
- 
-## Installation
+ <details>
+<summary> # 2. ComfyUI nodes to use LivePortrait  </summary>
+                                                              **LivePortrait results with ComfyUI**: 
+	 
+https://github.com/user-attachments/assets/0897267a-3015-44c5-ae6d-493ea3a545a1
+## Installation #2. based on [kijai](https://github.com/kijai/ComfyUI-LivePortraitKJ)
+ </details>
+## Installation #1.
 
 <details>
 	<summary>Standalone (Portable) <a href="https://github.com/comfyanonymous/ComfyUI">ComfyUI</a> for Windows</summary>
