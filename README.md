@@ -6,10 +6,16 @@
 
  </details>
  <details>
+	 
 <summary> # 2. ComfyUI nodes to use LivePortrait  </summary>
-                                                              **LivePortrait results with ComfyUI**: 
+                                                              **LivePortrait results with ComfyUI**: img2video
 	 
 https://github.com/user-attachments/assets/0897267a-3015-44c5-ae6d-493ea3a545a1
+
+**LivePortrait results with ComfyUI**: video2video
+
+https://github.com/user-attachments/assets/ed4a0ae4-6cf9-448f-8be0-7553288e840c
+
 ## Installation #2. based on [kijai](https://github.com/kijai/ComfyUI-LivePortraitKJ)
  </details>
 ## Installation #1.
